@@ -1,0 +1,39 @@
+{
+  "runtimes": {
+    "win7-x64": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.win7-x64.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "win8-arm": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.win8-arm.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "win7-x86": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.win7-x86.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "rhel.7-x64": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.rhel.7-x64.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "debian.8-x64": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.debian.8-x64.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "osx.10.10-x64": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.osx.10.10-x64.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    },
+    "ubuntu.14.04-x64": {
+      "Microsoft.NETCore.Runtime.CoreCLR": {
+        "runtime.ubuntu.14.04-x64.Microsoft.NETCore.Runtime.CoreCLR": "1.0.2-rc2-24027"
+      }
+    }
+  }
+}
